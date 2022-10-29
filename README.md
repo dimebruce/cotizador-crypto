@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <p align="center"><a href="https://gastos-dimebruce.netlify.app/" target="_blank">✅ Cotizador-de-crypto 💻 </a></p>  
+    <p align="center"><a href="https://cotizador-de-criptomonedas-dimebruce.netlify.app/" target="_blank">✅ Cotizador-de-crypto 💻 </a></p>  
 
 ## Sistema para cotizar el valor de criptomonedas en tiempo real 🤓
 
